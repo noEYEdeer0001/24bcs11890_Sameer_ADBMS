@@ -1,0 +1,5 @@
+https://www.codechef.com/learn/course/sql-intermediate/SQ00BS08/problems/GSQ82
+
+https://leetcode.com/problems/customers-who-never-order/description/
+
+https://leetcode.com/problems/employee-bonus/description/

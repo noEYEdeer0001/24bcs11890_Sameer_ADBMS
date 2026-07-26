@@ -1,0 +1,8 @@
+# Write your MySQL query statement below
+# we need common customer id from both the tables.
+
+select Customers.name as Customers
+from Customers
+LEFT JOIN Orders
+ON Customers.id = Orders.customerId
+where Orders.customerId IS NULL;
